@@ -68,7 +68,7 @@ const Home = () => {
                             <div className="col-md-8">
                                 <div className="card-block">
                                     <h6 className="card-title"><span style={{color: '#FF304F', fontWeight:'bold'}}>Card Title</span></h6>
-                                    <p className="card-text text-justify ms-0">Terima kasih sudah memilih Kediri Mall, rumah modern para penikmat belanja dan hiburan. Layanan pelanggan 
+                                    <p className="card-text text-justify ms-0">Terima kasih sudah memilih Kediri Town Square, rumah modern para penikmat belanja dan hiburan. Layanan pelanggan 
                                     kami selalu siap berikan senyuman dan bantuan untuk membuat pengalaman belanja Anda tak terlupakan. Dari pertanyaan hingga keluhan, tim kami selalu 
                                     bersemangat melayani Anda dengan profesionalisme. Rasakan kehangatan dan keistimewaan saat berbelanja di Kediri Mall. Apa yang bisa kami bantu hari 
                                     ini? Stay fabulous and happy shopping! #KediriMall #CustomerFirst</p>
