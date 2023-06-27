@@ -1,0 +1,36 @@
+
+#kaki {
+    height: 300px;
+    background-color: #0E2F56;
+}
+
+h5,p {
+    margin-top:30px;
+    margin-left: 35px;
+}
+
+ul {
+    list-style: none;
+}
+
+.tentang, .support a {
+    text-decoration: none;
+    margin-left: 2px;
+}
+
+li.support a{
+    line-height: 3;
+    color : #ECECDA;
+}
+
+ul.tentang {
+    margin-top:20px;
+}
+
+.card-body {
+    margin-left: 30px;
+}
+
+li.support a:hover{
+    color:#F23557;
+}

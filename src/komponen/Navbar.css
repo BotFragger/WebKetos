@@ -1,0 +1,73 @@
+/* nav {
+    background-color: #001021;
+    position: fixed;
+} */
+
+#navItem {
+    padding : 0 22px 0 22px;
+}
+
+#navbarDropdownMenuLink {
+    padding-right: 120px;
+}
+
+div#navigasi {
+    /* background-color: #0353a4; */
+    padding: 10px 0;
+}
+
+/* svg {
+    margin-left: 30px;
+} */
+
+#ketos{
+    margin-top: -4px;   
+    left: 0;
+    position: absolute;
+    color: #fff;
+    margin-left: 50px;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-bottom: none;
+}
+
+/* nav ul#kanan{
+    position: fixed;
+    
+} */
+
+#gambar{
+    height: 780px;
+}
+
+svg#logo{
+    position: fixed;
+    z-index: 1;
+    margin-top: 5px;
+}
+
+
+nav#kepala {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    color: aliceblue;
+    background-color: #118DF0;
+    
+}
+
+.nav-item:hover {
+    color: #FF304F;
+}
+
+.nav-item {
+    color:#ECECDA;
+}
+
+button.iconKetos {
+    border-style: none;
+    background-color: transparent;
+    font-weight: bold;
+    color: #0E2F56;
+}
