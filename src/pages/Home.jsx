@@ -67,8 +67,11 @@ const Home = () => {
                             </div>
                             <div className="col-md-8">
                                 <div className="card-block">
-                                    <h6 className="card-title">Card Title</h6>
-                                    <p className="card-text text-justify ms-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                    <h6 className="card-title"><span style={{color: '#FF304F', fontWeight:'bold'}}>Card Title</span></h6>
+                                    <p className="card-text text-justify ms-0">Terima kasih sudah memilih Kediri Mall, rumah modern para penikmat belanja dan hiburan. Layanan pelanggan 
+                                    kami selalu siap berikan senyuman dan bantuan untuk membuat pengalaman belanja Anda tak terlupakan. Dari pertanyaan hingga keluhan, tim kami selalu 
+                                    bersemangat melayani Anda dengan profesionalisme. Rasakan kehangatan dan keistimewaan saat berbelanja di Kediri Mall. Apa yang bisa kami bantu hari 
+                                    ini? Stay fabulous and happy shopping! #KediriMall #CustomerFirst</p>
                                     <a href="#" className="btn btn-primary">read more...</a>
                                 </div>
                             </div>
@@ -79,8 +82,10 @@ const Home = () => {
                         <div className="row">
                             <div className="col-md-8">
                                 <div className="card-block">
-                                    <h6 className="card-title text-right">Card Title</h6>
-                                    <p className="card-text text-justify ms-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                    <h6 className="card-title text-right"><span style={{color: '#FF304F', fontWeight:'bold'}}>Card Title</span></h6>
+                                    <p className="card-text text-justify ms-0">Segera nikmati pengalaman belanja yang tak terlupakan dan jangan lewatkan kesempatan untuk berinteraksi dengan
+                                    tim ramah kami yang siap membantu setiap kebutuhan Anda. Dapatkan pengalaman belanja yang nyaman dan penuh keceriaan hanya di Kediri Mall, di mana 
+                                    kepuasan Anda adalah prioritas utama kami. Selamat berbelanja!"</p>
                                     <a href="#" className="btn btn-primary">read more...</a>
                                 </div>
                             </div>
@@ -141,7 +146,7 @@ const Home = () => {
                     <div className="col w-25">
                         <div className="card">
                                 <h4 className="card-header" id='headingcard'>header6</h4>
-                                <img  className="card-image m-auto mt-4" id='gambar' src="./mall1.png" alt="" />
+                                <img  className="card-image m-auto mt-4" id='gambar' src="./klee.jpg" alt="" />
                             <div className="card-body">
                                 <h2 className="card-title mb-0" id='teksisi'>Wellcome</h2>
                                 <p className="lead text-justify ms-0 mt-0">this is something about paragraph.....</p>
