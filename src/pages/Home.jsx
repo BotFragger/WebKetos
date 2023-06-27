@@ -141,7 +141,7 @@ const Home = () => {
                     <div className="col w-25">
                         <div className="card">
                                 <h4 className="card-header" id='headingcard'>header6</h4>
-                                <img  className="card-image m-auto mt-4" id='gambar' src="./klee.jpg" alt="" />
+                                <img  className="card-image m-auto mt-4" id='gambar' src="./mall1.png" alt="" />
                             <div className="card-body">
                                 <h2 className="card-title mb-0" id='teksisi'>Wellcome</h2>
                                 <p className="lead text-justify ms-0 mt-0">this is something about paragraph.....</p>
