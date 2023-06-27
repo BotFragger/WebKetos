@@ -1,0 +1,44 @@
+body {
+    background-color: #FFFFFF;
+}
+.card {
+    border-radius:0;
+    margin:10px auto;
+}
+.card1 {
+    border-radius:0;
+    margin:10px auto;
+    background-color: #949494;
+}
+.card-title {
+	text-transform: uppercase;
+	color: #E44424;
+}
+
+.card-text {
+	margin-top:10px;
+	margin-bottom: 10px;
+	background-color:#FFFFFF;
+	color:#000000;
+}
+.card-text {
+	margin-top:10px;
+	margin-bottom: 10px;
+	background-color:#949494;
+	color:#000000;
+}
+a.btn, a.btn:visited {
+    color:#333333;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.gambar{
+    max-width:35%;
+    max-height:35%;
+    min-width:20%;
+    min-height:20%;
+}
