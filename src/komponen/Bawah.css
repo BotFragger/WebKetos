@@ -2,6 +2,7 @@
 #kaki {
     height: 300px;
     background-color: #0E2F56;
+    position:sticky;
 }
 
 h5,p {

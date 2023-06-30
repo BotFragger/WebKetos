@@ -56,8 +56,8 @@ const Home = () => {
                 <div className="facility text-center mt-5">
                     <h1>FASILITAS</h1>
                 </div>
-                <div className="container p-0 bg-transparent m-auto" id="facility">
-                    <div className="row row-cols-2 row-cols-lg-3 g-2 g-lg-2">
+                <div className="container p-0 bg-transparent m-auto">
+                    <div className="row row-cols-2 row-cols-lg-3 g-2 g-lg-2" id="facility">
                         <div className="col">
                             <img src="./test.jpg" className="kolom p-3" style={{maxWidth:300, maxheight:300}}/>
                         </div>

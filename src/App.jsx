@@ -9,6 +9,7 @@ import Bawah from './komponen/Bawah'
 import Fashion from './pages/Fashion'
 import Otomotif from './pages/Otomotif'
 import FoodCourt from './pages/FoodCourt'
+import Eyewear from './pages/Eyewear'
 // import FoodCourt from './pages/Foodcourt'
 
 
@@ -20,6 +21,7 @@ function App() {
         <Routes>
           <Route exact path="/" element={<Home/>} />
           <Route path="/fashion" element={<Fashion />} />
+          <Route path="/eyewear" element={<Eyewear />} />
           <Route path="/foodcourt" element={<FoodCourt />} />
           <Route path="/otomotif" element={<Otomotif />} />
         </Routes>
