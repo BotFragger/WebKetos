@@ -32,10 +32,10 @@ const Navbar = () => {
                                 role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Others</a>
                                 <ul className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                    <li><a className="dropdown-item fs-4" href="#">Essentials</a></li>
+                                    <li><a className="dropdown-item fs-4" href="essential">Essentials</a></li>
                                     <li><a className="dropdown-item fs-4" href="#">Underwear</a></li>
-                                    <li><a className="dropdown-item fs-4" href="eyewear">Eyewear</a></li>
-                                    <li><a className="dropdown-item fs-4" href="#">Kids</a></li>
+                                    <li><a className="dropdown-item fs-4" href="#">Eyewear</a></li>
+                                    <li><a className="dropdown-item fs-4" href="kids">Kids</a></li>
                                     <li><a className="dropdown-item fs-4" href="#">Electronics</a></li>
                                 </ul>
                             </li>

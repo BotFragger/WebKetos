@@ -6,47 +6,157 @@ import './Foodcourt.css';
 const FoodCourt = () => {
     return (
         <>
-          <ul>
-            <div className="col mt-5">
-
-              <li className="card grid-card mt-5">
-                <div className="photo" data-name="GRID"></div>
-                <h5 className="title">Grid Card</h5>
-                <p className="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                <span className="meta">Post Date</span>
-              </li>
-            </div>
-
-            <div className="col mt-5">
-              <li className="card flex-card mt-5" style={{height:272}}>
-                <div className="photo" data-name="FLEX"></div>
-                <div className="data">
-                  <h5 className="title">Flexbox Card 1</h5>
-                  <p className="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                  <span className="meta">Post Date</span>
+                  <div className="row h-100">
+        <div className="d-flex flex-row justify-content-center gap-3">
+            <div className="col1">
+                <div className="card w-100" id="konten">
+                    <img className="card-img rounded-4" id="isi" src="./bakery2.jpg" alt="" />
+                    <div className="card-img-overlay"> 
+                    </div>
+                    <div className="footer ">
+                        <p className="card-text">Time to make your move with activewear essentials that are designed for peak performance.</p>
+                        <h5 className="text-center card-title text-white">KFC</h5>
+                        <div className="d-grid gap-3 mb-3">
+                            <button type="button" className="btn">CHECK</button>
+                        </div>
+                    </div>
                 </div>
-              </li>
+                
+                <div className="card w-100" id="konten" >
+                    <img className="card-img rounded-4" id="isi" src="./bakery2.jpg" alt="" />
+                    <div className="card-img-overlay">
+                    </div>
+                    <div className="footer">
+                        <p className="card-text">Time to make your move with activewear essentials that are designed for peak performance.</p>
+                        <h5 className="text-center card-title text-white">PEKO PEKO SHUSI</h5>
+                        <div className="d-grid gap-3 mb-3">
+                            <button type="button" className="btn">CHECK</button>
+                    </div>
+                </div>
+            </div>    
+        </div>
+
+
+        <div className="col2">
+
+            <div className="card w-100" id="konten">
+                <img className="card-img rounded-4" id="isi" src="./bakery2.jpg" alt="" />
+                <div className="card-img-overlay">
+                </div>
+                <div className="footer">
+                    <p className="card-text">Time to make your move with activewear essentials that are designed for peak performance.</p>
+                    <h5 className="text-center card-title text-white">KFC</h5>
+                    <div className="d-grid gap-3 mb-3">
+                        <button type="button" className="btn">CHECK</button>
+                    </div>
+                </div>
+              </div>
+            
+            <div className="card w-100" id="konten">
+                <img className="card-img rounded-4" id="isi" src="./bakery2.jpg" alt="" />
+                <div className="card-img-overlay">
+                </div>
+                <div className="footer ">
+                    <p className="card-text">Time to make your move with activewear essentials that are designed for peak performance.</p>
+                    <h5 className="text-center card-title text-white">KFC</h5>
+                    <div className="d-grid gap-3 mb-3">
+                        <button type="button" className="btn">CHECK</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+            
+
+        <div className="col3">
+
+            <div className="card w-100" id="konten">
+                <img className="card-img rounded-4" id="isi" src="./bakery2.jpg" alt="" />
+                <div className="card-img-overlay">
+                </div>
+                <div className="footer">
+                    <p className="card-text">Time to make your move with activewear essentials that are designed for peak performance.</p>
+                    <h5 className="text-center card-title text-white">PEKO PEKO SHUSI</h5>
+                    <div className="d-grid gap-3 mb-3">
+                        <button type="button" className="btn">CHECK</button>
+                    </div>
+                </div>
             </div>
             
-            <div className="col mt-5">
-              <li className="card grid-card">
-                <div className="photo" data-name="GRID"></div>
-                <h5 className="title">Grid Card</h5>
-                <p className="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                <span className="meta">Post Date</span>
-              </li>
-            </div>
-            <div className="col mt-5">
-              <li className="card flex-card" style={{height:272}}>
-                <div className="photo" data-name="FLEX"></div>
-                <div className="data">
-                  <h5 className="title">Flexbox Card</h5>
-                  <p className="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                  <span className="meta">Post Date</span>
+            <div className="card w-100" id="konten">
+                <img className="card-img rounded-4" id="isi" src="./bakery2.jpg" alt="" />
+                <div className="card-img-overlay">
                 </div>
-              </li>
+                <div className="footer">
+                    <p className="card-text">Time to make your move with activewear essentials that are designed for peak performance.</p>
+                    <h5 className="text-center card-title text-white">KFC</h5>
+                    <div className="d-grid gap-3 mb-3">
+                        <button type="button" className="btn">CHECK</button>
+                    </div>
+                </div>
+            </div> 
+        </div>
+
+
+        <div className="col4">
+
+        <div className="card w-100" id="konten">
+                <img className="card-img rounded-4" id="isi" src="./bakery2.jpg" alt="" />
+                <div className="card-img-overlay">
+                </div>
+                <div className="footer">
+                    <p className="card-text">Time to make your move with activewear essentials that are designed for peak performance.</p>
+                    <h5 className="text-center card-title text-white">KFC</h5>
+                    <div className="d-grid gap-3 mb-3">
+                        <button type="button" className="btn">CHECK</button>
+                    </div>
+                </div>
+            </div> 
+            
+            <div className="card w-100" id="konten">
+                <img className="card-img rounded-4" id="isi" src="./bakery2.jpg" alt="" />
+                <div className="card-img-overlay">
+                </div>
+                <div className="footer">
+                    <p className="card-text">Time to make your move with activewear essentials that are designed for peak performance.</p>
+                    <h5 className="text-center card-title text-white">KFC</h5>
+                    <div className="d-grid gap-3 mb-3">
+                        <button type="button" className="btn">CHECK</button>
+                    </div>
+                </div>
+            </div> 
             </div>
-          </ul>
+
+            <div className="col5">
+
+            
+            <div className="card w-100" id="konten">
+                <img className="card-img rounded-4" id="isi" src="./bakery2.jpg" alt="" />
+                <div className="card-img-overlay">
+                </div>
+                <div className="footer">
+                    <p className="card-text">Time to make your move with activewear essentials that are designed for peak performance.</p>
+                    <h5 className="text-center card-title text-white">KFC</h5>
+                    <div className="d-grid gap-3 mb-3">
+                        <button type="button" className="btn">CHECK</button>
+                    </div>
+                </div>
+            </div> 
+            <div className="card w-100" id="konten">
+                <img className="card-img rounded-4" id="isi" src="./bakery2.jpg" alt="" />
+                <div className="card-img-overlay">
+                </div>
+                <div className="footer">
+                    <p className="card-text">Time to make your move with activewear essentials that are designed for peak performance.</p>
+                    <h5 className="text-center card-title text-white">KFC</h5>
+                    <div className="d-grid gap-3 mb-3">
+                        <button type="button" className="btn">CHECK</button>
+                    </div>
+                </div>
+            </div> 
+            
+        </div>
+    </div>
+    </div>
 
         </>
     )
