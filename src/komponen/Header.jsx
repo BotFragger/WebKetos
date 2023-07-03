@@ -11,7 +11,7 @@ const Header = () => {
             
             
             <div id="carouselExampleControls" className="carousel slide mb-0" data-bs-ride="carousel">
-                <div className='carousel-caption fs-5 text-block'>
+                <div className='carousel-caption fs-5'>
                     <p className="profil">KEDIRI</p>
                     <p className="profil">TOWN SQUARE</p>
                 </div>
@@ -30,13 +30,13 @@ const Header = () => {
 
                 {/* tombol slide kiri kanan */}
                 <button className="carousel-control-prev" type="button" 
-                    data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                data-bs-target="#carouselExampleControls" data-bs-slide="prev">
                     <span className="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span className="visually-hidden">Previous</span>
                 </button>
 
                 <button className="carousel-control-next" type="button" 
-                    data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                data-bs-target="#carouselExampleControls" data-bs-slide="next">
                     <span className="carousel-control-next-icon" aria-hidden="true"></span>
                     <span className="visually-hidden">Next</span>
                 </button>
