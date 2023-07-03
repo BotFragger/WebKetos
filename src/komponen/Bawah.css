@@ -1,4 +1,4 @@
-
+/* 
 #kaki {
     height: 300px;
     background-color: #0E2F56;
@@ -34,4 +34,13 @@ ul.tentang {
 
 li.support a:hover{
     color:#F23557;
+} */
+
+#footer {
+    background-color: #0E2F56;
+    height: 300px;
+}
+
+#links {
+    text-decoration: none;
 }

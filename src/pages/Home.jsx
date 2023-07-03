@@ -10,7 +10,7 @@ const Home = () => {
     return (
         <>
             <Header></Header>
-                <div className="promo text-center mb-5">
+                <div className="promo text-center mb-4">
                     <h1>PROMO</h1>
                 </div>
                 
