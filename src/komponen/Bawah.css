@@ -43,4 +43,9 @@ li.support a:hover{
 
 #links {
     text-decoration: none;
+    color: #B2B2B2;
+}
+
+#links:hover {
+    color: #fff;
 }

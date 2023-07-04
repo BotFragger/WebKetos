@@ -36,23 +36,23 @@ const Bawah = () => {
                         <div className="col-lg-3 col-md-6 mb-4 mb-md-0 ms-5">
                             <h5 className="text-uppercase">Links</h5>
                             <ul className="list-unstyled mt-3 mb-0">
-                                <li>
-                                <a href="#!" className="text-white" id="links">Link 1</a>
+                                <li className="mt-2">
+                                <a href="#!" className="list" id="links">Link 1</a>
                                 </li>
-                                <li>
-                                <a href="#!" className="text-white" id="links">Link 2</a>
+                                <li className="mt-2">
+                                <a href="#!" className="list" id="links">Link 2</a>
                                 </li>
-                                <li>
-                                <a href="#!" className="text-white" id="links">Link 3</a>
+                                <li className="mt-2">
+                                <a href="#!" className="list" id="links">Link 3</a>
                                 </li>
-                                <li>
-                                <a href="#!" className="text-white" id="links">Link 4</a>
+                                <li className="mt-2">
+                                <a href="#!" className="list" id="links">Link 4</a>
                                 </li>
                             </ul>
                         </div>
                     </div>
                 
-                <div className="text-center pt-5 mt-5 mb-0">
+                <div className="text-center pt-5 mt-3 mb-0">
                     © 2020 Copyright:
                     <a className="text-white mb-0" href="https://mdbootstrap.com/">MDBootstrap.com</a>
                 </div>

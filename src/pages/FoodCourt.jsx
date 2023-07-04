@@ -6,7 +6,13 @@ import './Foodcourt.css';
 const FoodCourt = () => {
     return (
         <>
-          <ul>
+            <div className='carousel-caption fs-5 text-block text-center' id='makan'>
+                <p className="foodcourt m-auto">FOODCOURT</p>
+            </div>
+            <div className="container rounded-0 bg-transparent ms-0 p-0" id="pict">
+                <img src="./foodcourt.jpg" className="ms-0 mt-5 mx-auto" alt="..." id='img4'/>
+            </div>
+          {/* <ul>
             <div className="col mt-5">
 
               <li className="card grid-card mt-5">
@@ -46,7 +52,7 @@ const FoodCourt = () => {
                 </div>
               </li>
             </div>
-          </ul>
+          </ul> */}
 
         </>
     )
