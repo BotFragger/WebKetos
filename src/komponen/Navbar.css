@@ -1,7 +1,10 @@
-
+/* nav {
+    background-color: #001021;
+    position: fixed;
+} */
 
 #navItem {
-    padding : 0 22px 0 22px;
+    padding: 0 22px 0 22px;
 }
 
 #navbarDropdownMenuLink {
@@ -17,8 +20,8 @@ div#navigasi {
     margin-left: 30px;
 } */
 
-#ketos{
-    margin-top: -4px;   
+#ketos {
+    margin-top: -4px;
     left: 0;
     position: absolute;
     color: #fff;
@@ -34,11 +37,11 @@ div#navigasi {
     
 } */
 
-#gambar{
+#gambar {
     height: 780px;
 }
 
-svg#logo{
+svg#logo {
     position: fixed;
     z-index: 1;
     margin-top: 5px;
@@ -50,21 +53,21 @@ nav#kepala {
     z-index: 2;
     width: 100%;
     color: aliceblue;
-    background-color: #118DF0;
-    
+    background-color: #001C30;
+
 }
 
 .nav-item:hover {
-    color: #FF304F;
+    color: #0E2F56;
 }
 
 .nav-item {
-    color:#ECECDA;
+    color: #ECECDA;
 }
 
 button.iconKetos {
     border-style: none;
     background-color: transparent;
     font-weight: bold;
-    color: #1C658C;
+    color: #0E2F56;
 }
