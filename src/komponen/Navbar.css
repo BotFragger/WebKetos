@@ -50,12 +50,12 @@ nav#kepala {
     z-index: 2;
     width: 100%;
     color: aliceblue;
-    background-color: #001C30;
+    background-color: #118DF0;
     
 }
 
 .nav-item:hover {
-    color: #0E2F56;
+    color: #FF304F;
 }
 
 .nav-item {

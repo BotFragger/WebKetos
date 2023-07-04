@@ -6,20 +6,20 @@ import './Bawah.css'
 const Bawah = () => {
     return (
         <>
+            <div className="text-light" id="kaki">
             {/* <div className="text-light" id="kaki">
                 <div className="row g-0">
                     <div className="col-md-8">
+                        <div className="card-body">
                         <div className="card-body d-grid">
                             <h5 className="card-title"><span style={{color:'#F0D43A'}}>Contact</span></h5>
                             <ul className="tentang" id="">
                                 <li className="support"><a href="#">About Us</a></li>
-                                <li className="support"><a href="#">Support</a></li>
-                                <li className="support"><a href="#">Contact Us</a></li>
-                                <li className="support"><a href="#">Address</a></li>
-                            </ul>
+@ -20,7 +20,43 @@ const Bawah = () => {
                         </div>
                     </div>
                 </div>
+            </div>
             </div> */}
 
             <footer className="text-white px-2 pt-2" id="footer">
@@ -57,6 +57,7 @@ const Bawah = () => {
                     <a className="text-white mb-0" href="https://mdbootstrap.com/">MDBootstrap.com</a>
                 </div>
             </footer>
+                    </div>
         </>
     )
 }

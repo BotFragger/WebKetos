@@ -1,17 +1,61 @@
-#img4 {
-  filter: brightness(35%);
+.body{
+  justify-content: center;
+  }
+  .card#konten{
+  max-width: 260px;
+  display: flex;
+  justify-content: center;
   margin: auto;
-}
-
-.foodcourt {
-  font-weight: bolder;
-  font-size: 80px;
-  margin: auto;
-  letter-spacing: 40px;
-}
-
-#makan {
-  margin-top: -140px;
-  filter: opacity(50%);
-  height: fit-content;
-}
+  margin-top: 50px;
+  background-color: #118DF0;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  }
+  .card-text{
+      position: relative;
+      font-size: 15px;
+      font-style: unset;
+      color: #eaeaea;
+      font-weight: bold;
+  }
+  .card-title{
+      position: relative;
+      display: block;
+      font-style: bold;
+      margin-bottom: 10px;
+  }
+  #isi.card-img{
+      max-width: 240px;
+      /* max-height: 300px; */
+  }
+  .item{
+      position: absolute;
+      justify-content: center;
+  }
+  .card-img-overlay{
+      max-height: 200px; 
+      max-width: 500px;  
+      margin-left: 20px;
+      margin-left: 20px;
+  }
+  .card-img{
+      max-width: 400px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 15px;
+  }
+  .footer{
+      margin-top: 30px;
+      height: auto;
+      background-image: linear-gradient(180deg, #118DF0, #0E2F56);
+      padding-left: 13px;
+      padding-right: 13px;
+      padding-top: 10px;
+      margin-bottom: auto;
+  }
+  .btn{
+    background-color:#ECECDA;
+  }
+  .btn:hover{
+    background-color:#FF304F;
+  }
