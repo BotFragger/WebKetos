@@ -19,8 +19,6 @@
     color: #000000;
 }
 
-
-/* asadsfusfusgfgukahdshfushjfhlshflishflhslifhsilhflshdlwshflhfhsuhfjuhfdhelifhskifhlkishfkishfhfhelghehghredlgthedjhjgdhf */
 /* a.btn,
 a.btn:visited {
     color: #333333;
@@ -36,27 +34,48 @@ a.btn:visited {
 /* div.row {
     margin: 20px 0;
 } */
-#headigcard{
+#headingcard {
     font-size: 20px;
 }
-.card-image{
+
+.card-image {
     max-width: 200px;
     max-height: 200px;
     margin: 20px 0 0 20px;
     /* border-radius: 50%; */
 }
+
 /* #banner.card-image{
     margin-top: 70px;
     margin-left: 25px;
 margin-bottom: 0;
 /* border-radius: 50%; */
 
-
-#banner.card-title{
+#banner.card-title {
     margin-top: 20px;
     margin-right: 10px;
 }
 
 .card #Master {
     min-height: 500px;
+}
+
+/* .background {
+    background-image: url('bgblurbk.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+} */
+
+#facility {
+    align-items: center;
+    margin:auto;
+}
+
+#imgHome{
+    transition: all 0.3s ease;
+}
+#imgHome:hover {
+    transform: scale(1.1);
 }

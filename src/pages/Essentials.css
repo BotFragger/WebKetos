@@ -1,0 +1,29 @@
+
+
+#img3 {
+    filter: brightness(35%);
+    margin: auto;
+}
+
+.essential {
+    font-weight: bolder;
+    font-size: 80px;
+    margin: auto;
+    letter-spacing: 40px;
+}
+
+#title {
+    margin-top: -140px;
+    filter: opacity(50%);
+    height: fit-content;
+}
+
+#ess {
+    min-width: 850px;
+    max-height: 270px;
+    filter: brightness(55%);
+}
+
+#outer {
+    max-width: 855px;
+}

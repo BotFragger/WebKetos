@@ -1,0 +1,7 @@
+#root{
+    background-color: #ECECEB;
+}
+
+body::-webkit-scrollbar{
+    display: none;
+}
