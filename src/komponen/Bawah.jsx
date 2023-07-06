@@ -7,21 +7,7 @@ const Bawah = () => {
     return (
         <>
             <div className="text-light" id="kaki">
-            {/* <div className="text-light" id="kaki">
-                <div className="row g-0">
-                    <div className="col-md-8">
-                        <div className="card-body">
-                        <div className="card-body d-grid">
-                            <h5 className="card-title"><span style={{color:'#F0D43A'}}>Contact</span></h5>
-                            <ul className="tentang" id="">
-                                <li className="support"><a href="#">About Us</a></li>
-@ -20,7 +20,43 @@ const Bawah = () => {
-                        </div>
-                    </div>
-                </div>
-            </div>
-            </div> */}
-
+            
             <footer className="text-white px-2 pt-2" id="footer">
                 
                     <div className="row w-75 mt-4 ms-3">

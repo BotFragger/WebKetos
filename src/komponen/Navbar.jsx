@@ -23,7 +23,7 @@ const Navbar = () => {
                             <li className="nav-item" id="navItem">
                                 <a className="nav-link fs-4" aria-current="page" href="/">Home</a></li>
                             <li className="nav-item" id="navItem">
-                                <a className="nav-link fs-4" href="foodCourt">Food Court</a></li>
+                                <a className="nav-link fs-4" href="foodCourt">F & B</a></li>
                             <li className="nav-item" id="navItem">
                                 <a className="nav-link fs-4" href="fashion">Fashion</a></li>
                             <li className="nav-item dropdown" id="navItem">
@@ -33,8 +33,8 @@ const Navbar = () => {
                                 Others</a>
                                 <ul className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                     <li><a className="dropdown-item fs-4" href="essentials">Essentials</a></li>
-                                    <li><a className="dropdown-item fs-4" href="#">Underwear</a></li>
-                                    <li><a className="dropdown-item fs-4" href="eyewear">Eyewear</a></li>
+                                    <li><a className="dropdown-item fs-4" href="#">Beauty & Health</a></li>
+                                    <li><a className="dropdown-item fs-4" href="eyewear">Accessories</a></li>
                                     <li><a className="dropdown-item fs-4" href="#">Kids</a></li>
                                     <li><a className="dropdown-item fs-4" href="electronic">Electronics</a></li>
                                 </ul>

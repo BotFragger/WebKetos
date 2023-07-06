@@ -27,7 +27,7 @@ function App() {
             <Route exact path="/" element={<Home/>} />
             <Route path="/fashion" element={<Fashion />} />
             <Route path="/eyewear" element={<Eyewear />} />
-            {/* <Route path="/foodcourt" element={<FoodCourt />} /> */}
+            <Route path="/foodcourt" element={<FoodCourt />} />
             {/* <Route path="/otomotif" element={<Otomotif />} /> */}
             <Route path="/electronic" element={<Electronic />} />
             <Route path="/essentials" element={<Essentials />} />

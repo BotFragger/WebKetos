@@ -8,9 +8,7 @@ import './Header.css';
 const Header = () => {
     return (
         <>
-            
-            
-            <div id="carouselExampleControls" className="carousel slide mb-0" data-bs-ride="carousel">
+            <div id="carouselExampleControls" className="carousel slide mb-5" data-bs-ride="carousel">
                 <div className='carousel-caption fs-5 text-block'>
                     <p className="profil">KEDIRI</p>
                     <p className="profil">TOWN SQUARE</p>
