@@ -62,7 +62,7 @@ const Home = () => {
                 <div className="facility text-center mt-5">
                     <h1>FASILITAS</h1>
                 </div>
-                <div className="container p-0 bg-transparent m-auto" id="facility">
+                {/* <div className="container p-0 bg-transparent m-auto" id="facility">
                     <div className="row row-cols-3 row-cols-lg-3 g-0 g-lg-0">
                         <div className="col">
                             <img src="./test.jpg" className="kolom p-3" id='imgHome' style={{maxWidth:300, maxheight:300}}/>
@@ -81,6 +81,21 @@ const Home = () => {
                         </div>
                         <div className="col">
                             <img src="./test.jpg" className="kolom p-3" id='imgHome' style={{maxWidth:300, maxheight:300}}/>
+                        </div>
+                    </div>
+                </div> */}
+
+                <div className="container mb-3 w-50 h-50">
+                    <div className="card card-body bg-transparent border-0">
+                        <div className="row ">
+                            <img src="./test.jpg" className="col-sm-4" id='imgHome'/>
+                            <img src="./test.jpg" className="col-sm-4" id='imgHome'/>
+                            <img src="./test.jpg" className="col-sm-4" id='imgHome'/>
+                        </div>
+                        <div className="row my-4">
+                            <img src="./test.jpg" className="col-sm-4" id='imgHome'/>
+                            <img src="./test.jpg" className="col-sm-4" id='imgHome'/>
+                            <img src="./test.jpg" className="col-sm-4" id='imgHome'/>
                         </div>
                     </div>
                 </div>

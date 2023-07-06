@@ -16,3 +16,12 @@
     filter: opacity(50%);
     height: fit-content;
 }
+
+.shadow {
+    transition: all 0.3s ease;
+}
+
+.shadow:hover {
+    transform: scale(1.05);
+    transition: all 0.3s ease;
+}
