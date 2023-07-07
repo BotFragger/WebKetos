@@ -62,7 +62,7 @@ const Home = () => {
                     <h1>FASILITAS</h1>
                 </div>
 
-                <div className="container mb-3 w-50 h-50">
+                <div className="container mb-3 bg-transparent w-50 p-0 h-50">
                     <div className="card card-body bg-transparent border-0">
                         <div className="row ">
                             <img src="./test.jpg" className="col-sm-4" id='imgHome'/>

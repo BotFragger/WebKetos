@@ -39,7 +39,7 @@ const Electronic = () => {
                 </div>
 
                 
-                <div className="collapse container mb-3" id="collapseExample" style={{width:1100}}>
+                <div className="collapse container mb-3 bg-transparent p-0" id="collapseExample" style={{width:1100}}>
                     <div className="card card-body">
                         <div class="row ">
                             <img src="./test.jpg" className="col-sm-4"/>
