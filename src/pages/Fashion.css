@@ -6,7 +6,6 @@
   box-sizing: border-box;
 }
 .container {
-  margin: 5em auto;
   padding: 3em;
   background: #fff;
   border-radius: 1em;
@@ -41,8 +40,11 @@ section.cards {
 .card-image {
   max-width: 900px;
   max-height: 300px;
-  border-radius: 12%;
   margin:20px ;
+}
+.card-image:hover{
+  opacity: 70%;
+  transition: 0.3s;
 }
 .card-content {
   padding: 16px 20px;
