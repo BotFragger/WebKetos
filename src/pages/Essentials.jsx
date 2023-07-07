@@ -18,6 +18,20 @@ const Essentials = () => {
                     <p className="card-text">Last updated 3 mins ago</p>
                 </div>
             </div>
+            <div className="container mb-3 w-50 h-50">
+                    <div className="card card-body bg-transparent border-0">
+                        <div className="row ">
+                            <img src="./test.jpg" className="col-sm-4" id='imgHome'/>
+                            <img src="./test.jpg" className="col-sm-4" id='imgHome'/>
+                            <img src="./test.jpg" className="col-sm-4" id='imgHome'/>
+                        </div>
+                        <div className="row my-4">
+                            <img src="./test.jpg" className="col-sm-4" id='imgHome'/>
+                            <img src="./test.jpg" className="col-sm-4" id='imgHome'/>
+                            <img src="./test.jpg" className="col-sm-4" id='imgHome'/>
+                        </div>
+                    </div>
+                </div>
         </>
     )
 }

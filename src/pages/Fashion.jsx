@@ -1,15 +1,16 @@
 import React from 'react'
+import './Fashion.css'
 
 const Fashion = () => {
   return (
     <>
     <div className="banner d-flex justify-content-center">
-    <img className="image-banner" src="./WomenFashion.png" alt="" />
+    <img className="image-banner rounded-3" src="./WomenFashion.png" alt="" />
     </div>
-     <div className='container'>
+     <div className='container bg-transparent'>
         <section className="cards mt-5">
           <article className="horizontal card">
-            <img className="card-image" src="./ada_fashion2.jpg" alt="" />
+            <img className="card-image rounded-3" src="./ada_fashion2.jpg" alt="" />
               <div className="card-content">
                 <div className="card-type">women fashion</div>
                   <div className="card-title">Ada Fashion
@@ -19,7 +20,7 @@ const Fashion = () => {
         </div>
         </article>
                   <article className="vertical card">
-                <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+                <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
               <div className="card-content">
             <div className="card-type">article</div>
           <div className="card-title">
@@ -31,7 +32,7 @@ const Fashion = () => {
         </div>
         </article>
                   <article className="vertical card">
-                <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+                <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
               <div className="card-content">
             <div className="card-type">article</div>
           <div className="card-title">
@@ -43,7 +44,7 @@ const Fashion = () => {
         </div>
     </article>
                   <article className="vertical card">
-                <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+                <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
               <div className="card-content">
             <div className="card-type">article</div>
           <div className="card-title">
@@ -55,7 +56,7 @@ const Fashion = () => {
         </div>
         </article>
                   <article className="horizontal card">
-                <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+                <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
             <div className="card-content">
         <div className="card-type">article</div>
         <div className="card-title">
@@ -67,7 +68,7 @@ const Fashion = () => {
       </div>
     </article>
     <article className="vertical card">
-      <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+      <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
       <div className="card-content">
         <div className="card-type">article</div>
         <div className="card-title">
@@ -79,7 +80,7 @@ const Fashion = () => {
       </div>
     </article>
     <article className="vertical card">
-      <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+      <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
       <div className="card-content">
         <div className="card-type">article</div>
         <div className="card-title">
@@ -91,7 +92,7 @@ const Fashion = () => {
       </div>
     </article>
     <article className="horizontal card">
-                <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+                <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
             <div className="card-content">
         <div className="card-type">article</div>
         <div className="card-title">
@@ -103,7 +104,7 @@ const Fashion = () => {
       </div>
     </article>
     <article className="horizontal card">
-                <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+                <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
             <div className="card-content">
         <div className="card-type">article</div>
         <div className="card-title">
@@ -118,16 +119,12 @@ const Fashion = () => {
   </div>
 
   <div className="banner d-flex justify-content-center">
-    <img className="image-banner" src="./Menfashion.png" alt="" />
+    <img className="image-banner rounded-3" src="./Menfashion.png" alt="" />
     </div>
-    <div className='container'>
-
-
-
-
+    <div className='container bg-transparent'>
         <section className="cards mt-5">
           <article className="horizontal card">
-            <img className="card-image" src="./ada_fashion2.jpg" alt="" />
+            <img className="card-image rounded-3" src="./ada_fashion2.jpg" alt="" />
               <div className="card-content">
                 <div className="card-type">article</div>
                   <div className="card-title">Test Post: Electric Boogaloo
@@ -137,7 +134,7 @@ const Fashion = () => {
         </div>
         </article>
                   <article className="vertical card">
-                <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+                <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
               <div className="card-content">
             <div className="card-type">article</div>
           <div className="card-title">
@@ -149,7 +146,7 @@ const Fashion = () => {
         </div>
         </article>
                   <article className="vertical card">
-                <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+                <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
               <div className="card-content">
             <div className="card-type">article</div>
           <div className="card-title">
@@ -161,7 +158,7 @@ const Fashion = () => {
         </div>
     </article>
                   <article className="vertical card">
-                <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+                <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
               <div className="card-content">
             <div className="card-type">article</div>
           <div className="card-title">
@@ -173,7 +170,7 @@ const Fashion = () => {
         </div>
         </article>
                   <article className="horizontal card">
-                <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+                <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
             <div className="card-content">
         <div className="card-type">article</div>
         <div className="card-title">
@@ -185,7 +182,7 @@ const Fashion = () => {
       </div>
     </article>
     <article className="vertical card">
-      <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+      <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
       <div className="card-content">
         <div className="card-type">article</div>
         <div className="card-title">
@@ -197,7 +194,7 @@ const Fashion = () => {
       </div>
     </article>
     <article className="vertical card">
-      <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+      <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
       <div className="card-content">
         <div className="card-type">article</div>
         <div className="card-title">
@@ -209,7 +206,7 @@ const Fashion = () => {
       </div>
     </article>
     <article className="horizontal card">
-                <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+                <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
             <div className="card-content">
         <div className="card-type">article</div>
         <div className="card-title">
@@ -221,7 +218,7 @@ const Fashion = () => {
       </div>
     </article>
     <article className="horizontal card">
-                <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+                <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
             <div className="card-content">
         <div className="card-type">article</div>
         <div className="card-title">
@@ -238,12 +235,12 @@ const Fashion = () => {
   
   </div>
   <div className="banner d-flex justify-content-center">
-    <img className="image-banner" src="./kidsfashion.png" alt="" />
+    <img className="image-banner rounded-3" src="./kidsfashion.png" alt="" />
     </div>
-    <div className='container'>
+    <div className='container bg-transparent'>
         <section className="cards mt-5">
           <article className="horizontal card">
-            <img className="card-image" src="./ada_fashion2.jpg" alt="" />
+            <img className="card-image rounded-3" src="./ada_fashion2.jpg" alt="" />
               <div className="card-content">
                 <div className="card-type">article</div>
                   <div className="card-title">Test Post: Electric Boogaloo
@@ -253,7 +250,7 @@ const Fashion = () => {
         </div>
         </article>
                   <article className="vertical card">
-                <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+                <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
               <div className="card-content">
             <div className="card-type">article</div>
           <div className="card-title">
@@ -265,7 +262,7 @@ const Fashion = () => {
         </div>
         </article>
                   <article className="vertical card">
-                <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+                <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
               <div className="card-content">
             <div className="card-type">article</div>
           <div className="card-title">
@@ -277,7 +274,7 @@ const Fashion = () => {
         </div>
     </article>
                   <article className="vertical card">
-                <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+                <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
               <div className="card-content">
             <div className="card-type">article</div>
           <div className="card-title">
@@ -289,7 +286,7 @@ const Fashion = () => {
         </div>
         </article>
                   <article className="horizontal card">
-                <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+                <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
             <div className="card-content">
         <div className="card-type">article</div>
         <div className="card-title">
@@ -301,7 +298,7 @@ const Fashion = () => {
       </div>
     </article>
     <article className="vertical card">
-      <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+      <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
       <div className="card-content">
         <div className="card-type">article</div>
         <div className="card-title">
@@ -313,7 +310,7 @@ const Fashion = () => {
       </div>
     </article>
     <article className="vertical card">
-      <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+      <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
       <div className="card-content">
         <div className="card-type">article</div>
         <div className="card-title">
@@ -325,7 +322,7 @@ const Fashion = () => {
       </div>
     </article>
     <article className="horizontal card">
-                <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+                <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
             <div className="card-content">
         <div className="card-type">article</div>
         <div className="card-title">
@@ -337,7 +334,7 @@ const Fashion = () => {
       </div>
     </article>
     <article className="horizontal card">
-                <img className="card-image" src="./matahari_fashion.jpg" alt="" />
+                <img className="card-image rounded-3" src="./matahari_fashion.jpg" alt="" />
             <div className="card-content">
         <div className="card-type">article</div>
         <div className="card-title">
