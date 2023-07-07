@@ -18,10 +18,11 @@
     height: fit-content;
 }
 
-#ess {
-    min-width: 850px;
-    max-height: 270px;
+img#ess {
+    min-width: 860px;
+    max-height: 300px;
     filter: brightness(55%);
+    align-items: center;
 }
 
 #outer {

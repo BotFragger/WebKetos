@@ -8,10 +8,10 @@ const Eyewear = () => {
     return (
         <>
             <div className='carousel-caption fs-5 text-block text-center' id='judul'>
-                <p className="eyewear m-auto">EYEWEAR</p>
+                <p className="eyewear m-auto">ACCESSORIES</p>
             </div>
             <div className="container rounded-0 bg-transparent ms-0 p-0 m-auto" id="pict">
-                <img src="./eyeglass1.jpg" className="ms-0 mt-5 mx-auto" alt="..." id='img'/>
+                <img src="./aksesoris.jpg" className="ms-0 mt-5 mx-auto" alt="..." id='img'/>
             </div>
 
             <div className="text-center mt-5 mb-3">

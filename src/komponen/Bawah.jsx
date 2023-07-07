@@ -20,27 +20,27 @@ const Bawah = () => {
                                 </p>
                             </div>
                             <div className="col-lg-3 col-md-6 mb-4 mb-md-0 ms-5">
-                                <h5 className="text-uppercase">Links</h5>
+                                <h5 className="text-uppercase">More Information</h5>
                                 <ul className="list-unstyled mt-3 mb-0">
                                     <li className="mt-2">
-                                    <a href="#!" className="list" id="links">Link 1</a>
+                                    <a href="#!" target="_blank" rel="noopener noreferrer" className="list" id="links">For Partnership</a>
                                     </li>
                                     <li className="mt-2">
-                                    <a href="#!" className="list" id="links">Link 2</a>
+                                    <a href="#!" target="_blank" rel="noopener noreferrer" className="list" id="links">Event</a>
                                     </li>
                                     <li className="mt-2">
-                                    <a href="#!" className="list" id="links">Link 3</a>
+                                    <a href="#!" target="_blank" rel="noopener noreferrer" className="list" id="links">Customer Care</a>
                                     </li>
                                     <li className="mt-2">
-                                    <a href="#!" className="list" id="links">Link 4</a>
+                                    <a href="https://goo.gl/maps/JnnNUTkHG83ohL4n9" target="_blank" rel="noopener noreferrer" className="list" id="links">Address</a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
                     
                     <div className="text-center pt-5 mt-3 mb-0">
-                        © 2020 Copyright:
-                        <a className="text-white mb-0" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+                        © 2023 Copyright:
+                        <a className="text-white mb-0" href="#!"> Kediri Town Square</a>
                     </div>
                 </footer>
             </div>

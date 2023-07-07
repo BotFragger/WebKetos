@@ -18,7 +18,7 @@ const Electronic = () => {
                     <h1>ELECTRONIC SHOP</h1>
                 </div>
 
-                <div className="card mb-3 p-0 m-auto mt-4  shadow" style={{width:1100}}>
+                <div className="card mb-3 p-0 m-auto mt-4  shadow" id="kotak" style={{width:1100}}>
                     <div className="row no-gutters">
                         <div className="col-md-4">
                             <img src="./test.jpg" className="card-img mt-0 p-2 rounded-4" alt="..."/>
@@ -61,7 +61,7 @@ const Electronic = () => {
 
             <hr className="m-auto border-3" style={{width:1200, color:"black"}} />
 
-                <div className="card mb-3 p-0 m-auto mt-3 shadow" style={{width:1100}}>
+                <div className="card mb-3 p-0 m-auto mt-3 shadow" id="kotak" style={{width:1100}}>
                     <div className="row no-gutters">
                         <div className="col-md-4">
                             <img src="./test.jpg" className="card-img mt-0 p-2 rounded-4" alt="..."/>
@@ -81,7 +81,7 @@ const Electronic = () => {
                     </div>
                 </div>
 
-                <div className="collapse container mb-3" id="collapseExample2" style={{width:1100}}>
+                <div className="collapse container mb-3 bg-transparent p-0" id="collapseExample2" style={{width:1100}}>
                     <div className="card card-body">
                         <div class="row ">
                             <img src="./test.jpg" className="col-sm-4"/>
@@ -102,7 +102,7 @@ const Electronic = () => {
                 </div>
             <hr className="m-auto border-3" style={{width:1200, color:"black"}} />
 
-                <div className="card mb-3 p-0 m-auto mt-3 mb-5 shadow" style={{width:1100}}>
+                <div className="card mb-3 p-0 m-auto mt-3 mb-5 shadow" id="kotak" style={{width:1100}}>
                     <div className="row no-gutters">
                         <div className="col-md-4">
                             <img src="./test.jpg" className="card-img mt-0 p-2 rounded-4" alt="..."/>
@@ -122,7 +122,7 @@ const Electronic = () => {
                     </div>
                 </div>
 
-                <div className="collapse container mb-3" id="collapseExample3" style={{width:1100}}>
+                <div className="collapse container mb-3 bg-transparent p-0" id="collapseExample3" style={{width:1100}}>
                     <div className="card card-body">
                         <div class="row ">
                             <img src="./test.jpg" className="col-sm-4"/>
@@ -146,7 +146,7 @@ const Electronic = () => {
                         <h1>GADGET SHOP</h1>
                 </div>
 
-                <div className="card mb-3 p-0 m-auto mt-4  shadow" style={{width:1100}}>
+                <div className="card mb-3 p-0 m-auto mt-4  shadow" id="kotak" style={{width:1100}}>
                     <div className="row no-gutters">
                         <div className="col-md-4">
                             <img src="./test.jpg" className="card-img mt-0 p-2 rounded-4" alt="..."/>
@@ -166,7 +166,7 @@ const Electronic = () => {
                     </div>
                 </div>
 
-                <div className="collapse container mb-3" id="collapseExample4" style={{width:1100}}>
+                <div className="collapse container mb-3 bg-transparent p-0" id="collapseExample4" style={{width:1100}}>
                     <div className="card card-body">
                         <div class="row ">
                             <img src="./test.jpg" className="col-sm-4"/>
@@ -188,7 +188,7 @@ const Electronic = () => {
 
             <hr className="m-auto border-3" style={{width:1200, color:"black"}} />
 
-                <div className="card mb-3 p-0 m-auto mt-3  shadow" style={{width:1100}}>
+                <div className="card mb-3 p-0 m-auto mt-3  shadow" id="kotak" style={{width:1100}}>
                     <div className="row no-gutters">
                         <div className="col-md-4">
                             <img src="./test.jpg" className="card-img mt-0 p-2 rounded-4" alt="..."/>
@@ -208,7 +208,7 @@ const Electronic = () => {
                     </div>
                 </div>
 
-                <div className="collapse container mb-3" id="collapseExample5" style={{width:1100}}>
+                <div className="collapse container mb-3 bg-transparent p-0" id="collapseExample5" style={{width:1100}}>
                     <div className="card card-body">
                         <div class="row ">
                             <img src="./test.jpg" className="col-sm-4"/>
@@ -230,7 +230,7 @@ const Electronic = () => {
 
             <hr className="m-auto border-3" style={{width:1200, color:"black"}} />
 
-                <div className="card mb-3 p-0 m-auto mt-3 mb-5 shadow" style={{width:1100}}>
+                <div className="card mb-3 p-0 m-auto mt-3 mb-5 shadow" id="kotak" style={{width:1100}}>
                     <div className="row no-gutters">
                         <div className="col-md-4">
                             <img src="./test.jpg" className="card-img mt-0 p-2 rounded-4" alt="..."/>
@@ -250,7 +250,7 @@ const Electronic = () => {
                     </div>
                 </div>
 
-                <div className="collapse container mb-3" id="collapseExample6" style={{width:1100}}>
+                <div className="collapse container mb-3 bg-transparent p-0" id="collapseExample6" style={{width:1100}}>
                     <div className="card card-body">
                         <div class="row ">
                             <img src="./test.jpg" className="col-sm-4"/>

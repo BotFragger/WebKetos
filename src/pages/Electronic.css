@@ -17,11 +17,11 @@
     height: fit-content;
 }
 
-.shadow {
+#kotak {
     transition: all 0.3s ease;
 }
 
-.shadow:hover {
+#kotak:hover {
     transform: scale(1.05);
     transition: all 0.3s ease;
 }

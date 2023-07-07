@@ -35,7 +35,7 @@ const Navbar = () => {
                                     <li><a className="dropdown-item fs-4" href="essentials">Essentials</a></li>
                                     <li><a className="dropdown-item fs-4" href="#">Beauty & Health</a></li>
                                     <li><a className="dropdown-item fs-4" href="eyewear">Accessories</a></li>
-                                    <li><a className="dropdown-item fs-4" href="#">Kids</a></li>
+                                    <li><a className="dropdown-item fs-4" href="kids">Kids</a></li>
                                     <li><a className="dropdown-item fs-4" href="electronic">Electronics</a></li>
                                 </ul>
                             </li>
